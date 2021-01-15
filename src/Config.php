@@ -2,7 +2,7 @@
 namespace src;
 
 class Config {
-    const BASE_DIR = '/ibramvc/public';
+    const BASE_DIR = '/sistemaEstoque/public';
            
     const DB_DRIVER = 'mysql';
     const DB_HOST = 'localhost';
